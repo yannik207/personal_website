@@ -1,0 +1,8 @@
+/* Global styles and Tailwind setup */
+
+@import "tailwindcss";
+
+html,
+body {
+  @apply m-0 min-h-screen bg-black text-green-400 font-mono;
+}
